@@ -45,6 +45,12 @@
         "projectId": "57b6e9c4-a3f4-4b9e-9ca4-5e41581c0244"
       }
     },
-    "owner": "jonsamp"
+    "owner": "jonsamp",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/57b6e9c4-a3f4-4b9e-9ca4-5e41581c0244"
+    }
   }
 }
